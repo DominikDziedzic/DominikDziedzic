@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Dominik 👋
 
 <!--
 **DominikDziedzic/DominikDziedzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm mostly involved in projects related to experimental philosophy. Here are open-source projects I'm working on:
+
+- [**Intuition Generation Project**](https://github.com/DominikDziedzic/IntuitionGenerationProject): Repository for storing supplementary materials to accompany "Sources of Philosophical Intuitions: Towards a Model of Intuition Generation" project
+- [**2dDemonstratives**](https://github.com/DominikDziedzic/2dDemonstratives): Repository for storing supplementary materials to accompany "Truth Conditions, Use Conditions and Demonstratives: An Experimental Study" (2021)
